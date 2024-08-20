@@ -120,8 +120,16 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "symbol":"YTN",
+            "address":"TDXdBGwmuAfvKJbhbWCmWqyRoCT3ZaPe89",
+            "chainId":1,
+            "decimals":18,
+            "name":"YourTokenName",
+            "logoURI":"https://i.ibb.co/586TTTp/sunny.png"
         }
-    ],
+        ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
         "patch":1,
