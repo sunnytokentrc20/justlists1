@@ -1,0 +1,21 @@
+{
+    "name": "YourTokenListName", 
+    "logoURI": "https://link.to/your/logo.png", 
+    "timestamp": 1692537600000, 
+    "tokens": [
+        {
+            "chainId": 1, 
+            "address": "TDXdBGwmuAfvKJbhbWCmWqyRoCT3ZaPe89", 
+            "name": "YourTokenName", 
+            "symbol": "YTN", 
+            "decimals": 18, 
+            "logoURI": "https://i.ibb.co/586TTTp/sunny.png" 
+        }
+    ],
+    "version": { 
+        "major": 1, 
+        "minor": 0, 
+        "patch": 0  
+    }
+ }
+ 
