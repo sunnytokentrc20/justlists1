@@ -1,5 +1,5 @@
 {
-    "name": "Tron fixed List",
+    "name": "Xin List",
     "logoURI": "https://list.tronalliance.cc/fav.ico",
     "timestamp": 1723821787000,
     "version": {
@@ -9,7 +9,7 @@
     },
     "tokens": [{
 		"symbol": "YTN",
-		"address": "TDXdBGwmuAfvKJbhbWCmWqyRoCT3ZaPe89",
+		"address": "TUCCvNvsqBHMQR3FVjQ5ksM8vjjnAU14sB",
 		"chainId": 1,
 		"decimals": 18,
 		"name": "YourTokenName",
