@@ -11,7 +11,7 @@
 		"symbol": "YTN",
 		"address": "TDXdBGwmuAfvKJbhbWCmWqyRoCT3ZaPe89",
 		"chainId": 1,
-		"decimals": 9,
+		"decimals": 18,
 		"name": "YourTokenListName",
 		"logoURI": "https://i.ibb.co/586TTTp/sunny.png"
 	}] 
