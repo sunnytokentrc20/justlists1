@@ -1,0 +1,17 @@
+{
+	"name": "Spades",
+	"logoURI": "https://coin.top/production/upload/logo/TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW.png?t=1616293338361",
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	},
+	"tokens": [{
+		"symbol": "SPADES",
+		"address": "TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW",
+		"chainId": 1,
+		"decimals": 8,
+		"name": "Spades",
+		"logoURI": "https://coin.top/production/upload/logo/TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW.png?t=1616293338361"
+	}] 
+}
