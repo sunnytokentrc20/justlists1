@@ -230,6 +230,14 @@
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/sun/TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT.png"
-		}
-	]
-}
+		},
+                  {
+                "chainId": 1, 
+                "address": "TDXdBGwmuAfvKJbhbWCmWqyRoCT3ZaPe89", 
+                "name": "YourTokenName", 
+                "symbol": "YTN", 
+                "decimals": 18, 
+                "logoURI": "https://i.ibb.co/586TTTp/sunny.png" 
+            }
+        ]
+	}
