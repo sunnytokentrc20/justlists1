@@ -1,6 +1,6 @@
 {
 	"name": "YTN",
-	"logoURI": "https://i.ibb.co/586TTTp/sunny.png",
+	"logoURI": "https://i.pinimg.com/736x/f0/dc/d2/f0dcd26fbfe16a57f0b077bab8c6cf24.jpg",
 	"timestamp": 1724152053000,
 	"version": {
 		"major": 1,
@@ -13,6 +13,6 @@
 		"chainId": 1,
 		"decimals": 18,
 		"name": "YourTokenName",
-		"logoURI": "https://i.ibb.co/586TTTp/sunny.png"
+		"logoURI": "https://i.pinimg.com/736x/f0/dc/d2/f0dcd26fbfe16a57f0b077bab8c6cf24.jpg"
 	}] 
 }
