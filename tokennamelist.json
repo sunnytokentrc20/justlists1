@@ -8,11 +8,11 @@
         "patch": 0
     },
     "tokens": [{
-		"symbol": "YTN",
+		"symbol": "ZHAO",
 		"address": "TUCCvNvsqBHMQR3FVjQ5ksM8vjjnAU14sB",
 		"chainId": 1,
-		"decimals": 18,
-		"name": "YourTokenName",
-		"logoURI": "https://i.pinimg.com/736x/f0/dc/d2/f0dcd26fbfe16a57f0b077bab8c6cf24.jpg"
+		"decimals": 9,
+		"name": "XIN ZHAO",
+		"logoURI": "https://raw.githubusercontent.com/sunnytokentrc20/justlists1/main/XINZHAO.PNG"
 	}] 
 }

@@ -1,5 +1,5 @@
 {
-	"name": "Spades",
+	"name": "Yinuo",
 	"logoURI": "https://coin.top/production/upload/logo/TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW.png?t=1616293338361",
 	"timestamp": 1723821787000,
 	"version": {
@@ -8,11 +8,11 @@
 		"patch": 0
 	},
 	"tokens": [{
-		"symbol": "SPADES",
-		"address": "TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW",
+		"symbol": "Yinuo",
+		"address": "TKK1RXqSqLWKF9piXH8kbGhJSYjK922wY9",
 		"chainId": 1,
-		"decimals": 8,
-		"name": "Spades",
+		"decimals": 18,
+		"name": "Yinuo",
 		"logoURI": "https://coin.top/production/upload/logo/TPVhJPdGPSVfnQj795VZ7pK5qf9pJjWbsW.png?t=1616293338361"
 	}] 
 }
